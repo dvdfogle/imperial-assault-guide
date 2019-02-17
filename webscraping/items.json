@@ -1,0 +1,422 @@
+[
+    {
+        "card_name": "Armored Gauntlets",
+        "expansion": "(Core)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Balanced Hilt",
+        "expansion": "(Core)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Combat Coat",
+        "expansion": "(Core)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "DH-17",
+        "expansion": "(Core)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "DL-44",
+        "expansion": "(Core)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "E-11",
+        "expansion": "(Core)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Extended Haft",
+        "expansion": "(Core)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Marksman Barrel",
+        "expansion": "(Core)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Portable Medkit",
+        "expansion": "(Core)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Survival Gear",
+        "expansion": "(Core)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Tactical Display",
+        "expansion": "(Core)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Vibroblade",
+        "expansion": "(Core)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Tatooine Hunting Rifle",
+        "expansion": "(Twin Shadows)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Gaffi Stick",
+        "expansion": "(Twin Shadows)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "DDC Defender",
+        "expansion": "(Return to Hoth)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Vibroknife",
+        "expansion": "(Return to Hoth)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Under-Barrel HH-4",
+        "expansion": "(Return to Hoth)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Vibrosword",
+        "expansion": "(The Bespin Gambit)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Shadowsilk Cloak",
+        "expansion": "(The Bespin Gambit)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Bacta Pump",
+        "expansion": "(Jabba's Realm)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Emergency Injector",
+        "expansion": "(Jabba's Realm)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Hand Cannon",
+        "expansion": "(Jabba's Realm)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Charge Pistol",
+        "expansion": "(Heart of the Empire)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Charged Ammo Pack",
+        "expansion": "(Heart of the Empire)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Responsive Armor",
+        "expansion": "(Heart of the Empire)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Combat Vambrace",
+        "expansion": "(Tyrants of Lothal)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Punch Dagger",
+        "expansion": "(Tyrants of Lothal)",
+        "tier": "Tier 1"
+    },
+    {
+        "card_name": "Combat Coat",
+        "expansion": "(Core)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "A280",
+        "expansion": "(Core)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "T-21",
+        "expansion": "(Core)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "434 \"Deathhammer\"",
+        "expansion": "(Core)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Vibro Knucklers",
+        "expansion": "(Core)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "BD-1 Vibro-Ax",
+        "expansion": "(Core)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "High-Impact Guard",
+        "expansion": "(Core)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Spread Barrel",
+        "expansion": "(Core)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Overcharger",
+        "expansion": "(Core)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Laminate Armor",
+        "expansion": "(Core)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Extra Ammunition",
+        "expansion": "(Core)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Slicing Tools",
+        "expansion": "(Core)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "EE-3 Carbine",
+        "expansion": "",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Plasma Cell",
+        "expansion": "",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Environment Hazard Suit",
+        "expansion": "(Return to Hoth)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Stun Baton",
+        "expansion": "",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Cybernetic Arm",
+        "expansion": "",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "R5 Astromech",
+        "expansion": "(The Bespin Gambit)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Weighted Head",
+        "expansion": "(The Bespin Gambit)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "DT-12 Heavy Blaster Pistol",
+        "expansion": "(Greedo Villain Pack)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Bolt Upgrade",
+        "expansion": "(Jabba's Realm)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Double Vibrosword",
+        "expansion": "(Jabba's Realm)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Energized Hilt",
+        "expansion": "(Jabba's Realm)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Focusing Beam",
+        "expansion": "(Heart of the Empire)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Hunter's Rifle",
+        "expansion": "(Heart of the Empire)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Polearm",
+        "expansion": "(Heart of the Empire)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "E-11D",
+        "expansion": "(Tyrants of Lothal)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Mandalorian Helmet",
+        "expansion": "(Tyrants of Lothal)",
+        "tier": "Tier 2"
+    },
+    {
+        "card_name": "Pulse Cannon",
+        "expansion": "(Core)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "DXR-6",
+        "expansion": "(Core)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Sporting Blaster",
+        "expansion": "(Core)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Force Pike",
+        "expansion": "(Core)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Laminate Armor",
+        "expansion": "(Core)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Personal Shields",
+        "expansion": "(Core)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Reinforced Helmet",
+        "expansion": "(Core)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Combat Visor",
+        "expansion": "(Core)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Combat Knife",
+        "expansion": "(Core)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Shock Emitter",
+        "expansion": "(Core)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Disruption Cell",
+        "expansion": "(Core)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Telescoping Sights",
+        "expansion": "(Core)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Hidden Blade",
+        "expansion": "(Twin Shadows)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "DLT-19",
+        "expansion": "(Twin Shadows)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Valken-38 Carbine",
+        "expansion": "",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Vibrogenerator",
+        "expansion": "",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Concussion Grenades",
+        "expansion": "",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Sniper Scope",
+        "expansion": "(The Bespin Gambit)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Disruptor Pistol",
+        "expansion": "(The Bespin Gambit)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Ancient Lightsaber",
+        "expansion": "(Obi Wan Kenobi Ally Pack)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Electrostaff",
+        "expansion": "(The Grand Inquisitor Villain Pack)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Admiral's Uniform",
+        "expansion": "(Jabba's Realm)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Modified Energy Cannon",
+        "expansion": "(Jabba's Realm)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Ryyk Blades",
+        "expansion": "(Jabba's Realm)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "A-12 Sniper Rifle",
+        "expansion": "(Heart of the Empire)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Power Charger",
+        "expansion": "(Heart of the Empire)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Supply Pack",
+        "expansion": "(Heart of the Empire)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Bo-rifle",
+        "expansion": "(Tyrants of Lothal)",
+        "tier": "Tier 3"
+    },
+    {
+        "card_name": "Plastoid Armor",
+        "expansion": "(Tyrants of Lothal)",
+        "tier": "Tier 3"
+    }
+]

@@ -1,0 +1,758 @@
+[
+    {
+        "hero": "Diala Passil",
+        "name": "Plasteel Staff"
+    },
+    {
+        "hero": "Diala Passil",
+        "name": "Force Adept"
+    },
+    {
+        "hero": "Diala Passil",
+        "name": "Force Throw"
+    },
+    {
+        "hero": "Diala Passil",
+        "name": "Battle Meditation"
+    },
+    {
+        "hero": "Diala Passil",
+        "name": "Defensive Stance"
+    },
+    {
+        "hero": "Diala Passil",
+        "name": "Art of Movement"
+    },
+    {
+        "hero": "Diala Passil",
+        "name": "Snap Kick"
+    },
+    {
+        "hero": "Diala Passil",
+        "name": "Dancing Weapon"
+    },
+    {
+        "hero": "Diala Passil",
+        "name": "Way of the Sarlacc"
+    },
+    {
+        "hero": "Fenn Signis",
+        "name": "Infantry Rifle"
+    },
+    {
+        "hero": "Fenn Signis",
+        "name": "Tactical Movement"
+    },
+    {
+        "hero": "Fenn Signis",
+        "name": "Take Cover (Fenn)"
+    },
+    {
+        "hero": "Fenn Signis",
+        "name": "Adrenaline Rush"
+    },
+    {
+        "hero": "Fenn Signis",
+        "name": "Weapon Expert"
+    },
+    {
+        "hero": "Fenn Signis",
+        "name": "Suppressive Fire"
+    },
+    {
+        "hero": "Fenn Signis",
+        "name": "Trench Fighter"
+    },
+    {
+        "hero": "Fenn Signis",
+        "name": "Rebel Elite"
+    },
+    {
+        "hero": "Fenn Signis",
+        "name": "Superior Positioning"
+    },
+    {
+        "hero": "Gaarkhan",
+        "name": "Vibro-Ax"
+    },
+    {
+        "hero": "Gaarkhan",
+        "name": "Wookiee Fortitude"
+    },
+    {
+        "hero": "Gaarkhan",
+        "name": "Wookiee Loyalty"
+    },
+    {
+        "hero": "Gaarkhan",
+        "name": "Ferocity (Gaarkhan)"
+    },
+    {
+        "hero": "Gaarkhan",
+        "name": "Staggering Blow"
+    },
+    {
+        "hero": "Gaarkhan",
+        "name": "Vicious Strike"
+    },
+    {
+        "hero": "Gaarkhan",
+        "name": "Rampage"
+    },
+    {
+        "hero": "Gaarkhan",
+        "name": "Unstoppable"
+    },
+    {
+        "hero": "Gaarkhan",
+        "name": "Brutal Cleave"
+    },
+    {
+        "hero": "Gideon Argus",
+        "name": "Holdout Blaster"
+    },
+    {
+        "hero": "Gideon Argus",
+        "name": "Called Shot"
+    },
+    {
+        "hero": "Gideon Argus",
+        "name": "Military Efficiency"
+    },
+    {
+        "hero": "Gideon Argus",
+        "name": "Air of Command"
+    },
+    {
+        "hero": "Gideon Argus",
+        "name": "Mobile Tactician"
+    },
+    {
+        "hero": "Gideon Argus",
+        "name": "For the Cause!"
+    },
+    {
+        "hero": "Gideon Argus",
+        "name": "Rallying Shout"
+    },
+    {
+        "hero": "Gideon Argus",
+        "name": "Hammer and Anvil"
+    },
+    {
+        "hero": "Gideon Argus",
+        "name": "Master Stroke"
+    },
+    {
+        "hero": "Jyn Odan",
+        "name": "Vintage Blaster"
+    },
+    {
+        "hero": "Jyn Odan",
+        "name": "Quick as a Whip"
+    },
+    {
+        "hero": "Jyn Odan",
+        "name": "Smuggler's Luck"
+    },
+    {
+        "hero": "Jyn Odan",
+        "name": "Cheap Shot"
+    },
+    {
+        "hero": "Jyn Odan",
+        "name": "Roll with It"
+    },
+    {
+        "hero": "Jyn Odan",
+        "name": "Get Cocky"
+    },
+    {
+        "hero": "Jyn Odan",
+        "name": "Gunslinger"
+    },
+    {
+        "hero": "Jyn Odan",
+        "name": "Sidewinder"
+    },
+    {
+        "hero": "Jyn Odan",
+        "name": "Trick Shot"
+    },
+    {
+        "hero": "Mak Eshka'rey",
+        "name": "Longblaster"
+    },
+    {
+        "hero": "Mak Eshka'rey",
+        "name": "Disengage"
+    },
+    {
+        "hero": "Mak Eshka'rey",
+        "name": "Supply Network"
+    },
+    {
+        "hero": "Mak Eshka'rey",
+        "name": "Jeswandi Training"
+    },
+    {
+        "hero": "Mak Eshka'rey",
+        "name": "Target Acquired"
+    },
+    {
+        "hero": "Mak Eshka'rey",
+        "name": "Execute"
+    },
+    {
+        "hero": "Mak Eshka'rey",
+        "name": "Expertise"
+    },
+    {
+        "hero": "Mak Eshka'rey",
+        "name": "Decoy"
+    },
+    {
+        "hero": "Mak Eshka'rey",
+        "name": "No Escape"
+    },
+    {
+        "hero": "Biv Bodhrik",
+        "name": "Repeating Blaster"
+    },
+    {
+        "hero": "Biv Bodhrik",
+        "name": "Advance"
+    },
+    {
+        "hero": "Biv Bodhrik",
+        "name": "Shake It Off"
+    },
+    {
+        "hero": "Biv Bodhrik",
+        "name": "Crushing Blow"
+    },
+    {
+        "hero": "Biv Bodhrik",
+        "name": "Into the Fray"
+    },
+    {
+        "hero": "Biv Bodhrik",
+        "name": "Trophy Armor"
+    },
+    {
+        "hero": "Biv Bodhrik",
+        "name": "Vibrobayonet"
+    },
+    {
+        "hero": "Biv Bodhrik",
+        "name": "Final Stand"
+    },
+    {
+        "hero": "Biv Bodhrik",
+        "name": "Stay Down"
+    },
+    {
+        "hero": "Saska Teft",
+        "name": "Modified Blaster"
+    },
+    {
+        "hero": "Saska Teft",
+        "name": "Tool Kit"
+    },
+    {
+        "hero": "Saska Teft",
+        "name": "Unstable Device"
+    },
+    {
+        "hero": "Saska Teft",
+        "name": "Energy Shield"
+    },
+    {
+        "hero": "Saska Teft",
+        "name": "Structural Weakness"
+    },
+    {
+        "hero": "Saska Teft",
+        "name": "Gadgeteer"
+    },
+    {
+        "hero": "Saska Teft",
+        "name": "Power Converter"
+    },
+    {
+        "hero": "Saska Teft",
+        "name": "Adrenaline Injector"
+    },
+    {
+        "hero": "Saska Teft",
+        "name": "Remote Distribution"
+    },
+    {
+        "hero": "Loku Kanoloa",
+        "name": "All-Weather Rifle"
+    },
+    {
+        "hero": "Loku Kanoloa",
+        "name": "Combat Spotter"
+    },
+    {
+        "hero": "Loku Kanoloa",
+        "name": "Scouting Report"
+    },
+    {
+        "hero": "Loku Kanoloa",
+        "name": "Overwatch"
+    },
+    {
+        "hero": "Loku Kanoloa",
+        "name": "Spectrum Scanner"
+    },
+    {
+        "hero": "Loku Kanoloa",
+        "name": "Scout\u2019s Guidance"
+    },
+    {
+        "hero": "Loku Kanoloa",
+        "name": "Study of Enemies"
+    },
+    {
+        "hero": "Loku Kanoloa",
+        "name": "Coordinated Attack (Loku)"
+    },
+    {
+        "hero": "Loku Kanoloa",
+        "name": "Mon Cala Special Forces"
+    },
+    {
+        "hero": "MHD-19",
+        "name": "Sidearm Blaster"
+    },
+    {
+        "hero": "MHD-19",
+        "name": "Bacta Injector"
+    },
+    {
+        "hero": "MHD-19",
+        "name": "Improper Procedure"
+    },
+    {
+        "hero": "MHD-19",
+        "name": "Field Surgeon"
+    },
+    {
+        "hero": "MHD-19",
+        "name": "Fuel Injection"
+    },
+    {
+        "hero": "MHD-19",
+        "name": "Adrenal Vapor"
+    },
+    {
+        "hero": "MHD-19",
+        "name": "Miracle Worker"
+    },
+    {
+        "hero": "MHD-19",
+        "name": "Bacta Radiator"
+    },
+    {
+        "hero": "MHD-19",
+        "name": "Combat Override"
+    },
+    {
+        "hero": "Verena Talos",
+        "name": "Military Blaster"
+    },
+    {
+        "hero": "Verena Talos",
+        "name": "Combat Momentum"
+    },
+    {
+        "hero": "Verena Talos",
+        "name": "Create Opening"
+    },
+    {
+        "hero": "Verena Talos",
+        "name": "K\u2019tara Maneuver"
+    },
+    {
+        "hero": "Verena Talos",
+        "name": "Student of Battle"
+    },
+    {
+        "hero": "Verena Talos",
+        "name": "Point Blank Shot"
+    },
+    {
+        "hero": "Verena Talos",
+        "name": "Improvised Cover"
+    },
+    {
+        "hero": "Verena Talos",
+        "name": "Master Operative (Verena)"
+    },
+    {
+        "hero": "Verena Talos",
+        "name": "Combat Mastery"
+    },
+    {
+        "hero": "Davith Elso",
+        "name": "Heirloom Dagger"
+    },
+    {
+        "hero": "Davith Elso",
+        "name": "Elusive Agent"
+    },
+    {
+        "hero": "Davith Elso",
+        "name": "Covert Operative"
+    },
+    {
+        "hero": "Davith Elso",
+        "name": "Blindside"
+    },
+    {
+        "hero": "Davith Elso",
+        "name": "Falling Leaf"
+    },
+    {
+        "hero": "Davith Elso",
+        "name": "Shrouded Lightsaber"
+    },
+    {
+        "hero": "Davith Elso",
+        "name": "Force Illusion (Davith)"
+    },
+    {
+        "hero": "Davith Elso",
+        "name": "Embody the Force"
+    },
+    {
+        "hero": "Davith Elso",
+        "name": "Fell Swoop"
+    },
+    {
+        "hero": "Murne Rin",
+        "name": "Diplomat's Blaster"
+    },
+    {
+        "hero": "Murne Rin",
+        "name": "Company of Heroes"
+    },
+    {
+        "hero": "Murne Rin",
+        "name": "Sonic Bellow"
+    },
+    {
+        "hero": "Murne Rin",
+        "name": "Professional Aide"
+    },
+    {
+        "hero": "Murne Rin",
+        "name": "Rebel Propaganda"
+    },
+    {
+        "hero": "Murne Rin",
+        "name": "Double Agent"
+    },
+    {
+        "hero": "Murne Rin",
+        "name": "Solidarity"
+    },
+    {
+        "hero": "Murne Rin",
+        "name": "Lead from the Front"
+    },
+    {
+        "hero": "Murne Rin",
+        "name": "Waylay"
+    },
+    {
+        "hero": "Onar Koma",
+        "name": "Bodyguard Rifle"
+    },
+    {
+        "hero": "Onar Koma",
+        "name": "Get Down"
+    },
+    {
+        "hero": "Onar Koma",
+        "name": "Keep Up"
+    },
+    {
+        "hero": "Onar Koma",
+        "name": "Stay Behind Me"
+    },
+    {
+        "hero": "Onar Koma",
+        "name": "Mutual Destruction"
+    },
+    {
+        "hero": "Onar Koma",
+        "name": "Brute Strength"
+    },
+    {
+        "hero": "Onar Koma",
+        "name": "Hold Still"
+    },
+    {
+        "hero": "Onar Koma",
+        "name": "Don't Make me Hurt You"
+    },
+    {
+        "hero": "Onar Koma",
+        "name": "Black Sun Armor"
+    },
+    {
+        "hero": "Shyla Varad",
+        "name": "Duelist's Blade"
+    },
+    {
+        "hero": "Shyla Varad",
+        "name": "Responsiveness"
+    },
+    {
+        "hero": "Shyla Varad",
+        "name": "All-Out Attack"
+    },
+    {
+        "hero": "Shyla Varad",
+        "name": "Smoke Bombs"
+    },
+    {
+        "hero": "Shyla Varad",
+        "name": "Proximity Strike"
+    },
+    {
+        "hero": "Shyla Varad",
+        "name": "Swords Dance"
+    },
+    {
+        "hero": "Shyla Varad",
+        "name": "Remote Detonator"
+    },
+    {
+        "hero": "Shyla Varad",
+        "name": "Full Sweep"
+    },
+    {
+        "hero": "Shyla Varad",
+        "name": "Deadly Grace"
+    },
+    {
+        "hero": "Vinto Hreeda",
+        "name": "Hair-Trigger Pistol"
+    },
+    {
+        "hero": "Vinto Hreeda",
+        "name": "Pinpoint Shot"
+    },
+    {
+        "hero": "Vinto Hreeda",
+        "name": "Shot on the Run"
+    },
+    {
+        "hero": "Vinto Hreeda",
+        "name": "Sharpshooter"
+    },
+    {
+        "hero": "Vinto Hreeda",
+        "name": "Battlefield Experience"
+    },
+    {
+        "hero": "Vinto Hreeda",
+        "name": "Dead On"
+    },
+    {
+        "hero": "Vinto Hreeda",
+        "name": "Off-Hand Blaster"
+    },
+    {
+        "hero": "Vinto Hreeda",
+        "name": "Rapid Fire"
+    },
+    {
+        "hero": "Vinto Hreeda",
+        "name": "Merciless (Vinto)"
+    },
+    {
+        "hero": "Drokkatta",
+        "name": "MGL-9 \"Boomer\""
+    },
+    {
+        "hero": "Drokkatta",
+        "name": "Charging Up"
+    },
+    {
+        "hero": "Drokkatta",
+        "name": "Leave No One Behind"
+    },
+    {
+        "hero": "Drokkatta",
+        "name": "Bank Shot"
+    },
+    {
+        "hero": "Drokkatta",
+        "name": "Shrapnel Rounds"
+    },
+    {
+        "hero": "Drokkatta",
+        "name": "Repeater Cannon"
+    },
+    {
+        "hero": "Drokkatta",
+        "name": "Structural Exploitation"
+    },
+    {
+        "hero": "Drokkatta",
+        "name": "Thermal Explosions"
+    },
+    {
+        "hero": "Drokkatta",
+        "name": "Wookiee Wrath"
+    },
+    {
+        "hero": "Jarrod Kelvin",
+        "name": "Vibro-Claws"
+    },
+    {
+        "hero": "Jarrod Kelvin",
+        "name": "Balanced Approach"
+    },
+    {
+        "hero": "Jarrod Kelvin",
+        "name": "Forward Momentum"
+    },
+    {
+        "hero": "Jarrod Kelvin",
+        "name": "Scout's Loadout"
+    },
+    {
+        "hero": "Jarrod Kelvin",
+        "name": "Slicer's Upgrades"
+    },
+    {
+        "hero": "Jarrod Kelvin",
+        "name": "Explosive Reflexes"
+    },
+    {
+        "hero": "Jarrod Kelvin",
+        "name": "Mutual Progression"
+    },
+    {
+        "hero": "Jarrod Kelvin",
+        "name": "Leaping Slash"
+    },
+    {
+        "hero": "Jarrod Kelvin",
+        "name": "Mechanical Master"
+    },
+    {
+        "hero": "Ko-Tun Feralo",
+        "name": "Service Rifle"
+    },
+    {
+        "hero": "Ko-Tun Feralo",
+        "name": "Auxiliary Training"
+    },
+    {
+        "hero": "Ko-Tun Feralo",
+        "name": "Inch By Inch"
+    },
+    {
+        "hero": "Ko-Tun Feralo",
+        "name": "Combat Logistics"
+    },
+    {
+        "hero": "Ko-Tun Feralo",
+        "name": "Dig In"
+    },
+    {
+        "hero": "Ko-Tun Feralo",
+        "name": "Fire Support Specialist"
+    },
+    {
+        "hero": "Ko-Tun Feralo",
+        "name": "Opportunist"
+    },
+    {
+        "hero": "Ko-Tun Feralo",
+        "name": "Self-sufficient"
+    },
+    {
+        "hero": "Ko-Tun Feralo",
+        "name": "Squad Cohesion"
+    },
+    {
+        "hero": "CT-1701",
+        "name": "DC-15S Blaster"
+    },
+    {
+        "hero": "CT-1701",
+        "name": "Covering Fire (CT-1701)"
+    },
+    {
+        "hero": "CT-1701",
+        "name": "Reload"
+    },
+    {
+        "hero": "CT-1701",
+        "name": "Pin Them Down"
+    },
+    {
+        "hero": "CT-1701",
+        "name": "Strafing Run"
+    },
+    {
+        "hero": "CT-1701",
+        "name": "Squad Tactics"
+    },
+    {
+        "hero": "CT-1701",
+        "name": "Weakness Identified"
+    },
+    {
+        "hero": "CT-1701",
+        "name": "Concentrate Fire"
+    },
+    {
+        "hero": "CT-1701",
+        "name": "Wild Fire"
+    },
+    {
+        "hero": "Tress Hacnua",
+        "name": "Reinforced Cyberarm"
+    },
+    {
+        "hero": "Tress Hacnua",
+        "name": "Aryx Variation"
+    },
+    {
+        "hero": "Tress Hacnua",
+        "name": "Mynock Strike"
+    },
+    {
+        "hero": "Tress Hacnua",
+        "name": "Dianoga Sweep"
+    },
+    {
+        "hero": "Tress Hacnua",
+        "name": "Gundark Throw"
+    },
+    {
+        "hero": "Tress Hacnua",
+        "name": "Acklay Counter"
+    },
+    {
+        "hero": "Tress Hacnua",
+        "name": "Dragonsnake Variation"
+    },
+    {
+        "hero": "Tress Hacnua",
+        "name": "Fluidity"
+    },
+    {
+        "hero": "Tress Hacnua",
+        "name": "Krayt Dragon Fury"
+    }
+]

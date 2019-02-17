@@ -1,0 +1,557 @@
+[
+    {
+        "class": "Military Might",
+        "expansion": "Core Set",
+        "name": "Show of Force"
+    },
+    {
+        "class": "Military Might",
+        "expansion": "Core Set",
+        "name": "Combat Medic"
+    },
+    {
+        "class": "Military Might",
+        "expansion": "Core Set",
+        "name": "Riot Grenades"
+    },
+    {
+        "class": "Military Might",
+        "expansion": "Core Set",
+        "name": "Assault Armor"
+    },
+    {
+        "class": "Military Might",
+        "expansion": "Core Set",
+        "name": "Endless Ranks"
+    },
+    {
+        "class": "Military Might",
+        "expansion": "Core Set",
+        "name": "Shock Troopers"
+    },
+    {
+        "class": "Military Might",
+        "expansion": "Core Set",
+        "name": "Sustained Fire"
+    },
+    {
+        "class": "Military Might",
+        "expansion": "Core Set",
+        "name": "Combat Veterans"
+    },
+    {
+        "class": "Military Might",
+        "expansion": "Core Set",
+        "name": "Shock and Awe"
+    },
+    {
+        "class": "Technological Superiority",
+        "expansion": "Core Set",
+        "name": "Experimental Arms"
+    },
+    {
+        "class": "Technological Superiority",
+        "expansion": "Core Set",
+        "name": "Jetpacks"
+    },
+    {
+        "class": "Technological Superiority",
+        "expansion": "Core Set",
+        "name": "Technical Support"
+    },
+    {
+        "class": "Technological Superiority",
+        "expansion": "Core Set",
+        "name": "Failsafe"
+    },
+    {
+        "class": "Technological Superiority",
+        "expansion": "Core Set",
+        "name": "Hidden Detonators"
+    },
+    {
+        "class": "Technological Superiority",
+        "expansion": "Core Set",
+        "name": "Cloaking Device"
+    },
+    {
+        "class": "Technological Superiority",
+        "expansion": "Core Set",
+        "name": "Arc Blasters"
+    },
+    {
+        "class": "Technological Superiority",
+        "expansion": "Core Set",
+        "name": "Superior Augments"
+    },
+    {
+        "class": "Technological Superiority",
+        "expansion": "Core Set",
+        "name": "Adaptive Weapons"
+    },
+    {
+        "class": "Subversive Tactics",
+        "expansion": "Core Set",
+        "name": "Prey Upon Doubt"
+    },
+    {
+        "class": "Subversive Tactics",
+        "expansion": "Core Set",
+        "name": "Savage Weaponry"
+    },
+    {
+        "class": "Subversive Tactics",
+        "expansion": "Core Set",
+        "name": "Surgical Strike"
+    },
+    {
+        "class": "Subversive Tactics",
+        "expansion": "Core Set",
+        "name": "Heavy Pressure"
+    },
+    {
+        "class": "Subversive Tactics",
+        "expansion": "Core Set",
+        "name": "Exploit Weakness"
+    },
+    {
+        "class": "Subversive Tactics",
+        "expansion": "Core Set",
+        "name": "Executioner"
+    },
+    {
+        "class": "Subversive Tactics",
+        "expansion": "Core Set",
+        "name": "Weary Target"
+    },
+    {
+        "class": "Subversive Tactics",
+        "expansion": "Core Set",
+        "name": "Oppression"
+    },
+    {
+        "class": "Subversive Tactics",
+        "expansion": "Core Set",
+        "name": "No Quarter"
+    },
+    {
+        "class": "Inspiring Leadership",
+        "expansion": "Twin Shadows",
+        "name": "Field Officer"
+    },
+    {
+        "class": "Inspiring Leadership",
+        "expansion": "Twin Shadows",
+        "name": "Supervisory Agent"
+    },
+    {
+        "class": "Inspiring Leadership",
+        "expansion": "Twin Shadows",
+        "name": "Press On"
+    },
+    {
+        "class": "Inspiring Leadership",
+        "expansion": "Twin Shadows",
+        "name": "Strategic Planning"
+    },
+    {
+        "class": "Inspiring Leadership",
+        "expansion": "Twin Shadows",
+        "name": "Noble Sacrifice"
+    },
+    {
+        "class": "Inspiring Leadership",
+        "expansion": "Twin Shadows",
+        "name": "Imperial Dedication"
+    },
+    {
+        "class": "Inspiring Leadership",
+        "expansion": "Twin Shadows",
+        "name": "Field General"
+    },
+    {
+        "class": "Inspiring Leadership",
+        "expansion": "Twin Shadows",
+        "name": "Optimal Tactics"
+    },
+    {
+        "class": "Inspiring Leadership",
+        "expansion": "Twin Shadows",
+        "name": "Lead By Example"
+    },
+    {
+        "class": "Precision Training",
+        "expansion": "Return to Hoth",
+        "name": "Strike Force"
+    },
+    {
+        "class": "Precision Training",
+        "expansion": "Return to Hoth",
+        "name": "Strike Force"
+    },
+    {
+        "class": "Precision Training",
+        "expansion": "Return to Hoth",
+        "name": "Pinpoint Accuracy"
+    },
+    {
+        "class": "Precision Training",
+        "expansion": "Return to Hoth",
+        "name": "Sharpshooters"
+    },
+    {
+        "class": "Precision Training",
+        "expansion": "Return to Hoth",
+        "name": "Knowledge of Attack"
+    },
+    {
+        "class": "Precision Training",
+        "expansion": "Return to Hoth",
+        "name": "Versatile Attack"
+    },
+    {
+        "class": "Precision Training",
+        "expansion": "Return to Hoth",
+        "name": "Assassins"
+    },
+    {
+        "class": "Precision Training",
+        "expansion": "Return to Hoth",
+        "name": "Exacting Strike"
+    },
+    {
+        "class": "Precision Training",
+        "expansion": "Return to Hoth",
+        "name": "Find the Weakness"
+    },
+    {
+        "class": "Precision Training",
+        "expansion": "Return to Hoth",
+        "name": "Single-Minded"
+    },
+    {
+        "class": "Armored Onslaught",
+        "expansion": "Return to Hoth",
+        "name": "Explosive Munitions"
+    },
+    {
+        "class": "Armored Onslaught",
+        "expansion": "Return to Hoth",
+        "name": "Explosive Munitions"
+    },
+    {
+        "class": "Armored Onslaught",
+        "expansion": "Return to Hoth",
+        "name": "Armor Corps"
+    },
+    {
+        "class": "Armored Onslaught",
+        "expansion": "Return to Hoth",
+        "name": "Automated Repairs"
+    },
+    {
+        "class": "Armored Onslaught",
+        "expansion": "Return to Hoth",
+        "name": "Explosive Entry"
+    },
+    {
+        "class": "Armored Onslaught",
+        "expansion": "Return to Hoth",
+        "name": "Heavy Firepower"
+    },
+    {
+        "class": "Armored Onslaught",
+        "expansion": "Return to Hoth",
+        "name": "Mortar"
+    },
+    {
+        "class": "Armored Onslaught",
+        "expansion": "Return to Hoth",
+        "name": "Reactive Armor"
+    },
+    {
+        "class": "Armored Onslaught",
+        "expansion": "Return to Hoth",
+        "name": "Power to Shields"
+    },
+    {
+        "class": "Armored Onslaught",
+        "expansion": "Return to Hoth",
+        "name": "Rapid Dominance"
+    },
+    {
+        "class": "Imperial Black Ops",
+        "expansion": "The Bespin Gambit",
+        "name": "In the Shadows"
+    },
+    {
+        "class": "Imperial Black Ops",
+        "expansion": "The Bespin Gambit",
+        "name": "Shadow Corps"
+    },
+    {
+        "class": "Imperial Black Ops",
+        "expansion": "The Bespin Gambit",
+        "name": "Stealth"
+    },
+    {
+        "class": "Imperial Black Ops",
+        "expansion": "The Bespin Gambit",
+        "name": "Shadow Armor"
+    },
+    {
+        "class": "Imperial Black Ops",
+        "expansion": "The Bespin Gambit",
+        "name": "Surprise Attack"
+    },
+    {
+        "class": "Imperial Black Ops",
+        "expansion": "The Bespin Gambit",
+        "name": "Execution Squad"
+    },
+    {
+        "class": "Imperial Black Ops",
+        "expansion": "The Bespin Gambit",
+        "name": "Strategic Redeployment"
+    },
+    {
+        "class": "Imperial Black Ops",
+        "expansion": "The Bespin Gambit",
+        "name": "True Shadow"
+    },
+    {
+        "class": "Imperial Black Ops",
+        "expansion": "The Bespin Gambit",
+        "name": "Versatility"
+    },
+    {
+        "class": "Hutt Mercenaries",
+        "expansion": "Jabba's Realm",
+        "name": "Wanted: Dead"
+    },
+    {
+        "class": "Hutt Mercenaries",
+        "expansion": "Jabba's Realm",
+        "name": "Scouted"
+    },
+    {
+        "class": "Hutt Mercenaries",
+        "expansion": "Jabba's Realm",
+        "name": "Vendetta"
+    },
+    {
+        "class": "Hutt Mercenaries",
+        "expansion": "Jabba's Realm",
+        "name": "Cheap Shot"
+    },
+    {
+        "class": "Hutt Mercenaries",
+        "expansion": "Jabba's Realm",
+        "name": "Savage Motivation"
+    },
+    {
+        "class": "Hutt Mercenaries",
+        "expansion": "Jabba's Realm",
+        "name": "Nowhere to Hide"
+    },
+    {
+        "class": "Hutt Mercenaries",
+        "expansion": "Jabba's Realm",
+        "name": "Nowhere to Run"
+    },
+    {
+        "class": "Hutt Mercenaries",
+        "expansion": "Jabba's Realm",
+        "name": "Guild Hunters"
+    },
+    {
+        "class": "Hutt Mercenaries",
+        "expansion": "Jabba's Realm",
+        "name": "Most Wanted"
+    },
+    {
+        "class": "Nemeses",
+        "expansion": "Jabba's Realm",
+        "name": "Inspirational"
+    },
+    {
+        "class": "Nemeses",
+        "expansion": "Jabba's Realm",
+        "name": "Powerful Foes"
+    },
+    {
+        "class": "Nemeses",
+        "expansion": "Jabba's Realm",
+        "name": "Fearsome Presence"
+    },
+    {
+        "class": "Nemeses",
+        "expansion": "Jabba's Realm",
+        "name": "Prepare the Ambush"
+    },
+    {
+        "class": "Nemeses",
+        "expansion": "Jabba's Realm",
+        "name": "I'm on the Leader"
+    },
+    {
+        "class": "Nemeses",
+        "expansion": "Jabba's Realm",
+        "name": "Ringleader"
+    },
+    {
+        "class": "Nemeses",
+        "expansion": "Jabba's Realm",
+        "name": "Leave Them to Me"
+    },
+    {
+        "class": "Nemeses",
+        "expansion": "Jabba's Realm",
+        "name": "Punishing Force"
+    },
+    {
+        "class": "Nemeses",
+        "expansion": "Jabba's Realm",
+        "name": "Indomitable"
+    },
+    {
+        "class": "Nemeses",
+        "expansion": "Jabba's Realm",
+        "name": "Devastating Legion"
+    },
+    {
+        "class": "Power of the Dark Side",
+        "expansion": "Heart of the Empire",
+        "name": "Manifest Aggression"
+    },
+    {
+        "class": "Power of the Dark Side",
+        "expansion": "Heart of the Empire",
+        "name": "Dark Resurgence"
+    },
+    {
+        "class": "Power of the Dark Side",
+        "expansion": "Heart of the Empire",
+        "name": "Embrace Fear"
+    },
+    {
+        "class": "Power of the Dark Side",
+        "expansion": "Heart of the Empire",
+        "name": "Supernatural Vigor"
+    },
+    {
+        "class": "Power of the Dark Side",
+        "expansion": "Heart of the Empire",
+        "name": "Embrace Anger"
+    },
+    {
+        "class": "Power of the Dark Side",
+        "expansion": "Heart of the Empire",
+        "name": "Embrace Hate"
+    },
+    {
+        "class": "Power of the Dark Side",
+        "expansion": "Heart of the Empire",
+        "name": "Unnatural Abilities"
+    },
+    {
+        "class": "Power of the Dark Side",
+        "expansion": "Heart of the Empire",
+        "name": "Embrace Suffering"
+    },
+    {
+        "class": "Power of the Dark Side",
+        "expansion": "Heart of the Empire",
+        "name": "The Power of Passion"
+    },
+    {
+        "class": "Reactive Defenses",
+        "expansion": "Heart of the Empire",
+        "name": "Active Surveillance"
+    },
+    {
+        "class": "Reactive Defenses",
+        "expansion": "Heart of the Empire",
+        "name": "Shielded"
+    },
+    {
+        "class": "Reactive Defenses",
+        "expansion": "Heart of the Empire",
+        "name": "Blaster Emplacements"
+    },
+    {
+        "class": "Reactive Defenses",
+        "expansion": "Heart of the Empire",
+        "name": "Remote Activation"
+    },
+    {
+        "class": "Reactive Defenses",
+        "expansion": "Heart of the Empire",
+        "name": "Mechanical Protocol"
+    },
+    {
+        "class": "Reactive Defenses",
+        "expansion": "Heart of the Empire",
+        "name": "Electromagnetic Disruptors"
+    },
+    {
+        "class": "Reactive Defenses",
+        "expansion": "Heart of the Empire",
+        "name": "Infrared Scanners"
+    },
+    {
+        "class": "Reactive Defenses",
+        "expansion": "Heart of the Empire",
+        "name": "Overclock"
+    },
+    {
+        "class": "Reactive Defenses",
+        "expansion": "Heart of the Empire",
+        "name": "Targeting Sensors"
+    },
+    {
+        "class": "Overwhelming Oppression",
+        "expansion": "Tyrants of Lothal",
+        "name": "Commence Landing"
+    },
+    {
+        "class": "Overwhelming Oppression",
+        "expansion": "Tyrants of Lothal",
+        "name": "Personal Flagship"
+    },
+    {
+        "class": "Overwhelming Oppression",
+        "expansion": "Tyrants of Lothal",
+        "name": "Redouble Our Efforts"
+    },
+    {
+        "class": "Overwhelming Oppression",
+        "expansion": "Tyrants of Lothal",
+        "name": "Implacable"
+    },
+    {
+        "class": "Overwhelming Oppression",
+        "expansion": "Tyrants of Lothal",
+        "name": "TIE Landers"
+    },
+    {
+        "class": "Overwhelming Oppression",
+        "expansion": "Tyrants of Lothal",
+        "name": "Tactical Mastery"
+    },
+    {
+        "class": "Overwhelming Oppression",
+        "expansion": "Tyrants of Lothal",
+        "name": "TIE Fighter Patrol"
+    },
+    {
+        "class": "Overwhelming Oppression",
+        "expansion": "Tyrants of Lothal",
+        "name": "Indomitable Force"
+    },
+    {
+        "class": "Overwhelming Oppression",
+        "expansion": "Tyrants of Lothal",
+        "name": "Limitless Arsenal"
+    }
+]

@@ -1,0 +1,388 @@
+[
+    {
+        "category": "Red",
+        "hero": "Fenn Signis",
+        "name": "Brushfire",
+        "reward": "Veteran Prowess",
+        "expansion": "Core Set"
+    },
+    {
+        "category": "Red",
+        "hero": "Diala Passil",
+        "name": "Temptation",
+        "reward": "Shu Yen's Lightsaber",
+        "expansion": "Core Set"
+    },
+    {
+        "category": "Red",
+        "hero": "Jyn Odan",
+        "name": "High Moon",
+        "reward": "Peacemaker",
+        "expansion": "Core Set"
+    },
+    {
+        "category": "Red",
+        "hero": "Gaarkhan",
+        "name": "Indebted",
+        "reward": "Life Debt",
+        "expansion": "Core Set"
+    },
+    {
+        "category": "Red",
+        "hero": "Mak Eshka'rey",
+        "name": "Loose Cannon",
+        "reward": "Shadow Suit",
+        "expansion": "Core Set"
+    },
+    {
+        "category": "Red",
+        "hero": "Gideon Argus",
+        "name": "Friends of Old",
+        "reward": "Fearless Leader",
+        "expansion": "Core Set"
+    },
+    {
+        "category": "Green",
+        "name": "Sorry About the Mess",
+        "reward": "Han Solo (Scoundrel)",
+        "expansion": "Core Set",
+    },
+    {
+        "category": "Green",
+        "name": "Homecoming",
+        "reward": "Luke Skywalker (Hero of the Rebellion)",
+        "expansion": "Core Set",
+    },
+    {
+        "category": "Green",
+        "name": "The Spice Job",
+        "reward": "Chewbacca (Loyal Wookiee)",
+        "expansion": "Core Set",
+    },
+    {
+        "category": "Green",
+        "name": "Target of Opportunity",
+        "reward": "Rebel Saboteur",
+        "expansion": "Core Set"
+    },
+    {
+        "category": "Grey",
+        "name": "Viper's Den",
+        "reward": "Rebel Recon",
+        "expansion": "Core Set"
+    },
+    {
+        "category": "Grey",
+        "name": "A Simple Task",
+        "reward": "Adrenal Implant",
+        "expansion": "Core Set"
+    },
+    {
+        "category": "Grey",
+        "name": "Generous Donations",
+        "reward": "Credits",
+        "expansion": "Core Set"
+    },
+    {
+        "category": "Grey",
+        "name": "Luxury Cruise",
+        "reward": "Allied Operations",
+        "expansion": "Core Set"
+    },
+    {
+        "category": "Grey",
+        "name": "Sympathy for the Rebellion",
+        "reward": "The Ways of the Force",
+        "expansion": "Core Set",
+    },
+    {
+        "category": "Green",
+        "name": "Open to Interpretation",
+        "expansion": "R2-D2 and C-3PO Ally Pack",
+    },
+    {
+        "category": "Grey",
+        "name": "Celebration",
+        "reward": "Intimidation",
+        "expansion": "Chewbacca Ally Pack",
+    },
+    {
+        "category": "Grey",
+        "name": "Imperial Entanglements",
+        "reward": "Quickdraw Holster",
+        "expansion": "Han Solo Ally Pack",
+    },
+    {
+        "category": "Green",
+        "name": "Armed and Operational",
+        "reward": "Rebel Saboteur",
+        "expansion": "Rebel Saboteurs Ally Pack"
+    },
+    {
+        "category": "Green",
+        "name": "Brace for Impact",
+        "reward": "Rebel Trooper",
+        "expansion": "Rebel Troopers Ally Pack"
+    },
+    {
+        "category": "Red",
+        "hero": "Biv Bodhrik",
+        "name": "Past Life Enemies",
+        "reward": "Hunt Them Down",
+        "expansion": "Twin Shadows"
+    },
+    {
+        "category": "Red",
+        "hero": "Saska Teft",
+        "name": "Shady Dealings",
+        "reward": "Tech Goggles",
+        "expansion": "Twin Shadows"
+    },
+    {
+        "category": "Green",
+        "name": "Hunted Down",
+        "reward": "Han Solo",
+        "expansion": "Twin Shadows",
+    },
+    {
+        "category": "Grey",
+        "name": "Canyon Run",
+        "reward": "Counterparts",
+        "expansion": "Twin Shadows"
+    },
+    {
+        "category": "Green",
+        "name": "Brute Force",
+        "reward": "Wookiee Warrior",
+        "expansion": "Wookiee Warriors Ally Pack"
+    },
+    {
+        "category": "Green",
+        "name": "Precious Cargo",
+        "reward": "Alliance Smuggler",
+        "expansion": "Alliance Smuggler Ally Pack"
+    },
+    {
+        "category": "Red",
+        "hero": "Verena Talos",
+        "name": "Know Your Enemy",
+        "reward": "Iron Hand",
+        "expansion": "Return to Hoth"
+    },
+    {
+        "category": "Red",
+        "hero": "Loku Kanoloa",
+        "name": "Constant Vigilance",
+        "reward": "Battle Vision",
+        "expansion": "Return to Hoth"
+    },
+    {
+        "category": "Red",
+        "hero": "MHD-19",
+        "name": "Preventative Measures",
+        "reward": "Systems Upgrade",
+        "expansion": "Return to Hoth"
+    },
+    {
+        "category": "Green",
+        "expansion": "Return to Hoth",
+        "name": "Communication Breakdown",
+        "reward": "Leia Organa",
+        "expansion": "Leia Organa Ally Pack"
+    },
+    {
+        "category": "Green",
+        "expansion": "Return to Hoth",
+        "name": "Snowcrash",
+        "reward": "Echo Base Trooper",
+        "expansion": "Echo Base Troopers Ally Pack",
+    },
+    {
+        "category": "Green",
+        "name": "Reclamation",
+        "reward": "Lando Calrissian",
+        "expansion": "The Bespin Gambit"
+    },
+    {
+        "category": "Red",
+        "hero": "Davith Elso",
+        "name": "Reclassified",
+        "reward": "Radiant Holocron",
+        "expansion": "The Bespin Gambit"
+    },
+    {
+        "category": "Red",
+        "hero": "Murne Rin",
+        "name": "Panic in the Streets",
+        "reward": "Cam Droid",
+        "expansion": "The Bespin Gambit"
+    },
+    {
+        "category": "Grey",
+        "name": "Freedom Fighters",
+        "reward": "Lobot's Favor",
+        "expansion": "The Bespin Gambit"
+    },
+    {
+        "category": "Grey",
+        "name": "Cloud City's Secret",
+        "reward": "Under the Radar",
+        "expansion": "The Bespin Gambit"
+    },
+    {
+        "category": "Grey",
+        "name": "Hostile Takeover",
+        "reward": "Relief Effort",
+        "expansion": "The Bespin Gambit"
+    },
+    {
+        "category": "Grey",
+        "expansion": "The Bespin Gambit",
+        "name": "Into the Unknown",
+        "reward": "Cautious Approach",
+        "expansion": "ISB Infiltrators Villain Pack"
+    },
+    {
+        "category": "Grey",
+        "expansion": "The Bespin Gambit",
+        "name": "Paying Debts",
+        "reward": "Lady Luck",
+        "expansion": "Lando Calrissian Ally Pack"
+    },
+    {
+        "category": "Green",
+        "name": "Deadly Transmission",
+        "reward": "Obi-Wan Kenobi",
+        "expansion": "Obi-Wan Kenobi Ally Pack"
+    },
+    {
+        "category": "Grey",
+        "name": "Perilous Hunt",
+        "expansion": "Jabba's Realm"
+    },
+    {
+        "category": "Red",
+        "hero": "Onar Koma",
+        "name": "Extortion",
+        "reward": "Haymaker",
+        "expansion": "Jabba's Realm"
+    },
+    {
+        "category": "Red",
+		"hero": "Vinto Hreeda",
+        "name": "A Hero's Welcome",
+        "reward": "Desperado",
+        "expansion": "Jabba's Realm"
+    },
+    {
+        "category": "Red",
+        "hero": "Shyla Varad",
+        "name": "Born from Death",
+        "reward": "Mandalorian Heritage",
+        "expansion": "Jabba's Realm"
+    },
+    {
+        "category": "Green",
+        "expansion": "Jabba's Realm",
+        "name": "Strike Force Xesh",
+        "reward": "Alliance Ranger",
+        "expansion": "Alliance Rangers Ally Pack"
+    },
+    {
+        "category": "Green",
+        "expansion": "Jabba's Realm",
+        "name": "A Light in the Darkness",
+        "reward": "Luke Skywalker (Jedi Knight)",
+        "expansion": "Luke Skywalker Jedi Knight Ally Pack"
+    },
+    {
+        "category": "Grey",
+        "name": "Phantom Extraction",
+        "reward": "C1-10P and Hera Syndulla",
+        "expansion": "Hera Syndulla and C1-10P Ally Pack"
+    },
+    {
+        "category": "Red",
+		"hero": "Ko-Tun Feralo",
+        "name": "Extraction",
+        "reward": "Alliance Efficiency",
+        "expansion": "Heart of the Empire"
+    },
+    {
+        "category": "Red",
+		"hero": "Drokatta",
+        "name": "Unfinished Business",
+        "reward": "Wookiee Roar",
+        "expansion": "Heart of the Empire"
+    },
+    {
+        "category": "Red",
+		"hero": "Jarrod Kelvin",
+        "name": "Test of Metal",
+        "reward": "X-8 Upgrade",
+        "expansion": "Heart of the Empire"
+    },
+    {
+        "category": "Grey",
+        "name": "Civil Unrest",
+        "reward": "Populist Support",
+        "expansion": "Heart of the Empire"
+    },
+    {
+        "category": "Green",
+        "expansion": "Heart of the Empire",
+        "name": "Home Invasion",
+        "reward": "Ahsoka Tano",
+        "expansion": "Ahsoka Tano Ally Pack"
+    },
+    {
+        "category": "Red",
+        "hero": "Tress Hacnua",
+        "name": "Duel on Devaron",
+        "reward": "Wholeness",
+        "expansion": "Tyrants of Lothal"
+    
+    {
+        "category": "Red",
+        "hero": "CT-1701",
+        "name": "Sands of Seelos",
+        "reward": "Bullseye!",
+        "expansion": "Tyrants of Lothal"
+    },
+    {
+        "category": "Green",
+        "name": "Race on Ryloth",
+        "reward": "Any 1 Spectre Ally",
+        "expansion": "Tyrants of Lothal"
+    },
+    {
+        "category": "Green",
+        "name": "Sands of Seelos",
+        "reward": "Any 1 Spectre Ally",
+        "expansion": "Tyrants of Lothal"
+    },
+    {
+        "category": "Grey",
+        "name": "Call to Action",
+        "reward": "Nova Cell Leader",
+        "expansion": "Tyrants of Lothal"
+    },
+    {
+        "category": "Grey",
+        "name": "The Final Order",
+        "reward": "Credits",
+        "expansion": "Tyrants of Lothal"
+    },
+    {
+        "category": "Green",
+        "name": "Executive Overreach",
+        "reward": "Any 1 Spectre Ally",
+        "expansion": "Ezra Bridger and Kanan Jarrus Ally Pack"
+    },
+    {
+        "category": "Green",
+        "name": "Intimidation Factor",
+        "reward": "Any 1 Spectre Ally",
+        "expansion": "Sabine Wren and Zeb Orrelios Ally Pack"
+    }
+]

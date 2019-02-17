@@ -1,0 +1,632 @@
+[
+    {
+        "agenda": "Lord Vader's Command",
+        "expansion": "Core Set",
+        "name": "Dark Obsession"
+    },
+    {
+        "agenda": "Lord Vader's Command",
+        "expansion": "Core Set",
+        "name": "A Dark Power"
+    },
+    {
+        "agenda": "Lord Vader's Command",
+        "expansion": "Core Set",
+        "name": "As You Wish"
+    },
+    {
+        "agenda": "Imperial Industry",
+        "expansion": "Core Set",
+        "name": "Means of Production"
+    },
+    {
+        "agenda": "Imperial Industry",
+        "expansion": "Core Set",
+        "name": "Restorative Supplies"
+    },
+    {
+        "agenda": "Imperial Industry",
+        "expansion": "Core Set",
+        "name": "Interrogation Protocol"
+    },
+    {
+        "agenda": "Retaliation",
+        "expansion": "Core Set",
+        "name": "Breaking Point"
+    },
+    {
+        "agenda": "Retaliation",
+        "expansion": "Core Set",
+        "name": "Tactical Explosives"
+    },
+    {
+        "agenda": "Retaliation",
+        "expansion": "Core Set",
+        "name": "Weakness Revealed"
+    },
+    {
+        "agenda": "Agents of the Empire",
+        "expansion": "Core Set",
+        "name": "Impounded"
+    },
+    {
+        "agenda": "Agents of the Empire",
+        "expansion": "Core Set",
+        "name": "Imperial Informants"
+    },
+    {
+        "agenda": "Agents of the Empire",
+        "expansion": "Core Set",
+        "name": "Tracking Beacon"
+    },
+    {
+        "agenda": "For the Right Price",
+        "expansion": "Core Set",
+        "name": "Wanted"
+    },
+    {
+        "agenda": "For the Right Price",
+        "expansion": "Core Set",
+        "name": "High-Value Target"
+    },
+    {
+        "agenda": "For the Right Price",
+        "expansion": "Core Set",
+        "name": "Hired Help"
+    },
+    {
+        "agenda": "Imperial Discipline",
+        "expansion": "Core Set",
+        "name": "Fire at Will"
+    },
+    {
+        "agenda": "Imperial Discipline",
+        "expansion": "Core Set",
+        "name": "Impending Doom"
+    },
+    {
+        "agenda": "Imperial Discipline",
+        "expansion": "Core Set",
+        "name": "Tactical Maneuvering"
+    },
+    {
+        "agenda": "Imperial Security Bureau",
+        "expansion": "Core Set",
+        "name": "Internal Affairs"
+    },
+    {
+        "agenda": "Imperial Security Bureau",
+        "expansion": "Core Set",
+        "name": "ISB Enforcers"
+    },
+    {
+        "agenda": "Imperial Security Bureau",
+        "expansion": "Core Set",
+        "name": "Imperial Operative"
+    },
+    {
+        "agenda": "The General's Scheme",
+        "expansion": "General Weiss Villain Pack",
+        "name": "Forest Ambush"
+    },
+    {
+        "agenda": "The General's Scheme",
+        "expansion": "General Weiss Villain Pack",
+        "name": "Inspiring Command"
+    },
+    {
+        "agenda": "The General's Scheme",
+        "expansion": "General Weiss Villain Pack",
+        "name": "Special Modifications"
+    },
+    {
+        "agenda": "Crimson Empire",
+        "expansion": "Royal Guard Champion Villain Pack",
+        "name": "Infection"
+    },
+    {
+        "agenda": "Crimson Empire",
+        "expansion": "Royal Guard Champion Villain Pack",
+        "name": "Best of the Best"
+    },
+    {
+        "agenda": "Crimson Empire",
+        "expansion": "Royal Guard Champion Villain Pack",
+        "name": "Pulling the Strings"
+    },
+    {
+        "agenda": "Droid Uprising",
+        "expansion": "IG-88 Villain Pack",
+        "name": "Binary Revolution"
+    },
+    {
+        "agenda": "Droid Uprising",
+        "expansion": "IG-88 Villain Pack",
+        "name": "Sabotaged Plans"
+    },
+    {
+        "agenda": "Droid Uprising",
+        "expansion": "IG-88 Villain Pack",
+        "name": "Firepower Upgrade"
+    },
+    {
+        "agenda": "Pursuit of the Enemy",
+        "expansion": "Twin Shadows",
+        "name": "Death Mark"
+    },
+    {
+        "agenda": "Pursuit of the Enemy",
+        "expansion": "Twin Shadows",
+        "name": "Fire in the Sky"
+    },
+    {
+        "agenda": "Pursuit of the Enemy",
+        "expansion": "Twin Shadows",
+        "name": "Strike and Subdue"
+    },
+    {
+        "agenda": "The Empire's Reach",
+        "expansion": "Twin Shadows",
+        "name": "Advanced Prototypes"
+    },
+    {
+        "agenda": "The Empire's Reach",
+        "expansion": "Twin Shadows",
+        "name": "Data Security"
+    },
+    {
+        "agenda": "The Empire's Reach",
+        "expansion": "Twin Shadows",
+        "name": "Infiltrated"
+    },
+    {
+        "agenda": "Stormtrooper Support",
+        "expansion": "Kayn Somos Villain Pack",
+        "name": "Perpetual Reinforcements"
+    },
+    {
+        "agenda": "Stormtrooper Support",
+        "expansion": "Kayn Somos Villain Pack",
+        "name": "Military Presence"
+    },
+    {
+        "agenda": "Stormtrooper Support",
+        "expansion": "Kayn Somos Villain Pack",
+        "name": "Strength of Command"
+    },
+    {
+        "agenda": "Soldiers for Hire",
+        "expansion": "Boba Fett Villain Pack",
+        "name": "By Any Means Necessary"
+    },
+    {
+        "agenda": "Soldiers for Hire",
+        "expansion": "Boba Fett Villain Pack",
+        "name": "No Disintegrations"
+    },
+    {
+        "agenda": "Soldiers for Hire",
+        "expansion": "Boba Fett Villain Pack",
+        "name": "Predator and Prey"
+    },
+    {
+        "agenda": "Vader's Fist",
+        "expansion": "Stormtroopers Villain Pack",
+        "name": "Bunker Buster"
+    },
+    {
+        "agenda": "Vader's Fist",
+        "expansion": "Stormtroopers Villain Pack",
+        "name": "Set for Stun"
+    },
+    {
+        "agenda": "Vader's Fist",
+        "expansion": "Stormtroopers Villain Pack",
+        "name": "To the Last Man"
+    },
+    {
+        "agenda": "Nefarious Dealings",
+        "expansion": "Hired Guns Villain Pack",
+        "name": "Back-Room Bargains"
+    },
+    {
+        "agenda": "Nefarious Dealings",
+        "expansion": "Hired Guns Villain Pack",
+        "name": "Final Blast"
+    },
+    {
+        "agenda": "Nefarious Dealings",
+        "expansion": "Hired Guns Villain Pack",
+        "name": "Trade Routes Disrupted"
+    },
+    {
+        "agenda": "Tusken Treachery",
+        "expansion": "Bantha Rider Villain Pack",
+        "name": "Grievous Wound"
+    },
+    {
+        "agenda": "Tusken Treachery",
+        "expansion": "Bantha Rider Villain Pack",
+        "name": "Into the Wastes"
+    },
+    {
+        "agenda": "Tusken Treachery",
+        "expansion": "Bantha Rider Villain Pack",
+        "name": "Relocated"
+    },
+    {
+        "agenda": "Natural Warfare",
+        "expansion": "Return to Hoth",
+        "name": "Bestial Fury"
+    },
+    {
+        "agenda": "Natural Warfare",
+        "expansion": "Return to Hoth",
+        "name": "Exposed to the Elements"
+    },
+    {
+        "agenda": "Natural Warfare",
+        "expansion": "Return to Hoth",
+        "name": "Unchained"
+    },
+    {
+        "agenda": "Defensive Tactics",
+        "expansion": "Return to Hoth",
+        "name": "Counter-Strike"
+    },
+    {
+        "agenda": "Defensive Tactics",
+        "expansion": "Return to Hoth",
+        "name": "Enhanced Armor"
+    },
+    {
+        "agenda": "Defensive Tactics",
+        "expansion": "Return to Hoth",
+        "name": "Personal Shield Generators"
+    },
+    {
+        "agenda": "Bombardment",
+        "expansion": "General Sorin Villain Pack",
+        "name": "Armored Division"
+    },
+    {
+        "agenda": "Bombardment",
+        "expansion": "General Sorin Villain Pack",
+        "name": "Explosive Shrapnel"
+    },
+    {
+        "agenda": "Bombardment",
+        "expansion": "General Sorin Villain Pack",
+        "name": "Fully Charged"
+    },
+    {
+        "agenda": "Punishing Tactics",
+        "expansion": "Dengar Villain Pack",
+        "name": "A Bounty Protected"
+    },
+    {
+        "agenda": "Punishing Tactics",
+        "expansion": "Dengar Villain Pack",
+        "name": "Beaten Down"
+    },
+    {
+        "agenda": "Punishing Tactics",
+        "expansion": "Dengar Villain Pack",
+        "name": "Targeted Cruelty"
+    },
+    {
+        "agenda": "Enhanced Interrogation",
+        "expansion": "The Bespin Gambit",
+        "name": "Blackmail"
+    },
+    {
+        "agenda": "Enhanced Interrogation",
+        "expansion": "The Bespin Gambit",
+        "name": "Learn Their Weaknesses"
+    },
+    {
+        "agenda": "Enhanced Interrogation",
+        "expansion": "The Bespin Gambit",
+        "name": "Weak Links"
+    },
+    {
+        "agenda": "Evasive Maneuvers",
+        "expansion": "The Bespin Gambit",
+        "name": "Contingency Plan"
+    },
+    {
+        "agenda": "Evasive Maneuvers",
+        "expansion": "The Bespin Gambit",
+        "name": "Feigned Retreat"
+    },
+    {
+        "agenda": "Evasive Maneuvers",
+        "expansion": "The Bespin Gambit",
+        "name": "Hasty Ambush"
+    },
+    {
+        "agenda": "Imperial Intelligence",
+        "expansion": "Agent Blaise Villain Pack",
+        "name": "Classified Techniques"
+    },
+    {
+        "agenda": "Imperial Intelligence",
+        "expansion": "Agent Blaise Villain Pack",
+        "name": "Security Breach"
+    },
+    {
+        "agenda": "Imperial Intelligence",
+        "expansion": "Agent Blaise Villain Pack",
+        "name": "Under Surveillance"
+    },
+    {
+        "agenda": "Infiltration",
+        "expansion": "ISB Infiltrators Villain Pack",
+        "name": "Misdirection"
+    },
+    {
+        "agenda": "Infiltration",
+        "expansion": "ISB Infiltrators Villain Pack",
+        "name": "Quiet Entry"
+    },
+    {
+        "agenda": "Infiltration",
+        "expansion": "ISB Infiltrators Villain Pack",
+        "name": "Trip Mine"
+    },
+    {
+        "agenda": "Base Instincts",
+        "expansion": "Bossk Villain Pack",
+        "name": "Furious Retaliation"
+    },
+    {
+        "agenda": "Base Instincts",
+        "expansion": "Bossk Villain Pack",
+        "name": "Gunrunner"
+    },
+    {
+        "agenda": "Base Instincts",
+        "expansion": "Bossk Villain Pack",
+        "name": "On the Hunt"
+    },
+    {
+        "agenda": "Contract Gunmen",
+        "expansion": "Greedo Villain Pack",
+        "name": "Hunter for a Fee"
+    },
+    {
+        "agenda": "Contract Gunmen",
+        "expansion": "Greedo Villain Pack",
+        "name": "Stealth Squad"
+    },
+    {
+        "agenda": "Contract Gunmen",
+        "expansion": "Greedo Villain Pack",
+        "name": "Top Target"
+    },
+    {
+        "agenda": "Inquisition",
+        "expansion": "The Grand Inquisitor Villain Pack",
+        "name": "Cornered"
+    },
+    {
+        "agenda": "Inquisition",
+        "expansion": "The Grand Inquisitor Villain Pack",
+        "name": "Targeted by the Empire"
+    },
+    {
+        "agenda": "Inquisition",
+        "expansion": "The Grand Inquisitor Villain Pack",
+        "name": "When They Least Expect It"
+    },
+    {
+        "agenda": "Guild Hunters",
+        "expansion": "Jabba's Realm",
+        "name": "Abandon Contract"
+    },
+    {
+        "agenda": "Guild Hunters",
+        "expansion": "Jabba's Realm",
+        "name": "Call Your Shot"
+    },
+    {
+        "agenda": "Guild Hunters",
+        "expansion": "Jabba's Realm",
+        "name": "Shoot First"
+    },
+    {
+        "agenda": "Persistence",
+        "expansion": "Jabba's Realm",
+        "name": "Jetpacks"
+    },
+    {
+        "agenda": "Persistence",
+        "expansion": "Jabba's Realm",
+        "name": "No Rest for the Weary"
+    },
+    {
+        "agenda": "Persistence",
+        "expansion": "Jabba's Realm",
+        "name": "Snap Fire"
+    },
+    {
+        "agenda": "Wasteland Patrol",
+        "expansion": "Captain Terro Villain Pack",
+        "name": "Dewback Patrol"
+    },
+    {
+        "agenda": "Wasteland Patrol",
+        "expansion": "Captain Terro Villain Pack",
+        "name": "Flamethrower"
+    },
+    {
+        "agenda": "Wasteland Patrol",
+        "expansion": "Captain Terro Villain Pack",
+        "name": "The Anchorhead Affair"
+    },
+    {
+        "agenda": "Jabba's Empire",
+        "expansion": "Jabba the Hutt Villain Pack",
+        "name": "Head-Hunting"
+    },
+    {
+        "agenda": "Jabba's Empire",
+        "expansion": "Jabba the Hutt Villain Pack",
+        "name": "One Fat Slug"
+    },
+    {
+        "agenda": "Jabba's Empire",
+        "expansion": "Jabba the Hutt Villain Pack",
+        "name": "On Jabba's Orders"
+    },
+    {
+        "agenda": "Desert Scavengers",
+        "expansion": "Jawa Scavenger Villain Pack",
+        "name": "Ion Blasters"
+    },
+    {
+        "agenda": "Desert Scavengers",
+        "expansion": "Jawa Scavenger Villain Pack",
+        "name": "Jawa Raid"
+    },
+    {
+        "agenda": "Desert Scavengers",
+        "expansion": "Jawa Scavenger Villain Pack",
+        "name": "Salvage Operatives"
+    },
+    {
+        "agenda": "Devious Droids",
+        "expansion": "BT-1 and 0-0-0 Villain Pack",
+        "name": "Etiquette and Torture"
+    },
+    {
+        "agenda": "Devious Droids",
+        "expansion": "BT-1 and 0-0-0 Villain Pack",
+        "name": "Invasive Procedure"
+    },
+    {
+        "agenda": "Devious Droids",
+        "expansion": "BT-1 and 0-0-0 Villain Pack",
+        "name": "Missile Salvo"
+    },
+    {
+        "agenda": "Field Commander",
+        "expansion": "Heart of the Empire",
+        "name": "Assault Coordination"
+    },
+    {
+        "agenda": "Field Commander",
+        "expansion": "Heart of the Empire",
+        "name": "Reinforcements En Route"
+    },
+    {
+        "agenda": "Field Commander",
+        "expansion": "Heart of the Empire",
+        "name": "Unyielding Dedication"
+    },
+    {
+        "agenda": "Security Protocols",
+        "expansion": "Heart of the Empire",
+        "name": "Heavy Riot Gear"
+    },
+    {
+        "agenda": "Security Protocols",
+        "expansion": "Heart of the Empire",
+        "name": "Shields Online"
+    },
+    {
+        "agenda": "Security Protocols",
+        "expansion": "Heart of the Empire",
+        "name": "Surveillance Cams"
+    },
+    {
+        "agenda": "The Emperor's Plots",
+        "expansion": "Emperor Palpatine Villain Pack",
+        "name": "For the Emperor"
+    },
+    {
+        "agenda": "The Emperor's Plots",
+        "expansion": "Emperor Palpatine Villain Pack",
+        "name": "Insidious"
+    },
+    {
+        "agenda": "The Emperor's Plots",
+        "expansion": "Emperor Palpatine Villain Pack",
+        "name": "Isolation"
+    },
+    {
+        "agenda": "A Former Sith",
+        "expansion": "Maul Villain Pack",
+        "name": "Critical Strikes"
+    },
+    {
+        "agenda": "A Former Sith",
+        "expansion": "Maul Villain Pack",
+        "name": "Dubious Disposition"
+    },
+    {
+        "agenda": "A Former Sith",
+        "expansion": "Maul Villain Pack",
+        "name": "Imminent Reprisal"
+    },
+    {
+        "agenda": "War of Attrition",
+        "expansion": "Tyrants of Lothal",
+        "name": "Acceptable Margins"
+    },
+    {
+        "agenda": "War of Attrition",
+        "expansion": "Tyrants of Lothal",
+        "name": "Costly Victory"
+    },
+    {
+        "agenda": "War of Attrition",
+        "expansion": "Tyrants of Lothal",
+        "name": "Selfless Devotion"
+    },
+    {
+        "agenda": "Weapons Division",
+        "expansion": "Tyrants of Lothal",
+        "name": "Gas Canisters"
+    },
+    {
+        "agenda": "Weapons Division",
+        "expansion": "Tyrants of Lothal",
+        "name": "Ongoing Research"
+    },
+    {
+        "agenda": "Weapons Division",
+        "expansion": "Tyrants of Lothal",
+        "name": "Prototypes"
+    },
+    {
+        "agenda": "Ohnaka Gang",
+        "expansion": "Hondo Ohnaka Villain Pack",
+        "name": "Final Offer"
+    },
+    {
+        "agenda": "Ohnaka Gang",
+        "expansion": "Hondo Ohnaka Villain Pack",
+        "name": "Missing Treasure"
+    },
+    {
+        "agenda": "Ohnaka Gang",
+        "expansion": "Hondo Ohnaka Villain Pack",
+        "name": "The Pirate's Ploy"
+    },
+    {
+        "agenda": "The Art of War",
+        "expansion": "Thrawn Villain Pack",
+        "name": "Piece By Piece"
+    },
+    {
+        "agenda": "The Art of War",
+        "expansion": "Thrawn Villain Pack",
+        "name": "The Admiral's Grip"
+    },
+    {
+        "agenda": "The Art of War",
+        "expansion": "Thrawn Villain Pack",
+        "name": "Three Steps Ahead"
+    }
+]
