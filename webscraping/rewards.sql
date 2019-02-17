@@ -1,0 +1,53 @@
+CREATE TABLE rewards(
+id INTEGER PRIMARY KEY,
+   card_name    VARCHAR(22) NOT NULL 
+  ,side_mission VARCHAR(26) NOT NULL
+);
+INSERT INTO rewards(card_name,side_mission) VALUES ('Shu Yen''s Lightsaber','Temptation');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Veteran Prowess','Brushfire');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Life Debt','Indebted');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Fearless Leader','Friends of Old');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Peacemaker','High Moon');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Shadow Suit','Loose Cannon');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Adrenal Implant','A Simple Task');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Credits','Generous Donations');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Allied Operations','Luxury Cruise');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Rebel Recon','Viper''s Den');
+INSERT INTO rewards(card_name,side_mission) VALUES ('The Ways of the Force','Sympathy for the Rebellion');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Intimidation','Celebration');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Quickdraw Holster','Imperial Entanglements');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Hunt Them Down','Past Life Enemies');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Tech Goggles','Shady Dealings');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Counterparts','Canyon Run');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Battle Vision','Preventative Measures');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Systems Upgrade','Constant Vigilance');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Iron Hand','Know Your Enemy');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Cam Droid','Panic in the Streets');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Lobot''s Favor','Freedom Fighters');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Radiant Holocron','Reclassified');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Relief Effort','Hostile Takeover');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Under the Radar','Cloud City''s Secret');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Cautious Approach','Into the Unknown');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Lady Luck','Paying Debts');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Desperado','A Hero''s Welcome');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Haymaker','Extortion');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Mandalorian Heritage','Born from Death');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Alliance Efficiency','Extraction');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Wookiee Roar','Unfinished Business');
+INSERT INTO rewards(card_name,side_mission) VALUES ('X-8 Upgrade','Test of Metal');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Bardottan Shard','Bardottan Shard');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Inside Source','Inside Source');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Intercepted Plans','Intercepted Plans');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Lessons of History','Lessons of History');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Populist Support','Civil Unrest');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Scouted Enemies','Scouted Enemies');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Bullseye!','Sands of Seelos');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Hondo’s Treasure','Locked Chest');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Nova Cell Leader','Call to Action');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Rough Rider','Rough Rider');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Tech Specialist','Tech Specialist');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Wholeness','Duel on Devaron');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Networks Restored','Escape from Cloud City');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Invigorated by Success','Survival of the Fittest');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Strategy Executed','The Hard Way');
+INSERT INTO rewards(card_name,side_mission) VALUES ('Resurgence','Scouring of the Homestead');

@@ -45,19 +45,19 @@
         "category": "Green",
         "name": "Sorry About the Mess",
         "reward": "Han Solo (Scoundrel)",
-        "expansion": "Core Set",
+        "expansion": "Core Set"
     },
     {
         "category": "Green",
         "name": "Homecoming",
         "reward": "Luke Skywalker (Hero of the Rebellion)",
-        "expansion": "Core Set",
+        "expansion": "Core Set"
     },
     {
         "category": "Green",
         "name": "The Spice Job",
         "reward": "Chewbacca (Loyal Wookiee)",
-        "expansion": "Core Set",
+        "expansion": "Core Set"
     },
     {
         "category": "Green",
@@ -93,24 +93,24 @@
         "category": "Grey",
         "name": "Sympathy for the Rebellion",
         "reward": "The Ways of the Force",
-        "expansion": "Core Set",
+        "expansion": "Core Set"
     },
     {
         "category": "Green",
         "name": "Open to Interpretation",
-        "expansion": "R2-D2 and C-3PO Ally Pack",
+        "expansion": "R2-D2 and C-3PO Ally Pack"
     },
     {
         "category": "Grey",
         "name": "Celebration",
         "reward": "Intimidation",
-        "expansion": "Chewbacca Ally Pack",
+        "expansion": "Chewbacca Ally Pack"
     },
     {
         "category": "Grey",
         "name": "Imperial Entanglements",
         "reward": "Quickdraw Holster",
-        "expansion": "Han Solo Ally Pack",
+        "expansion": "Han Solo Ally Pack"
     },
     {
         "category": "Green",
@@ -142,7 +142,7 @@
         "category": "Green",
         "name": "Hunted Down",
         "reward": "Han Solo",
-        "expansion": "Twin Shadows",
+        "expansion": "Twin Shadows"
     },
     {
         "category": "Grey",
@@ -195,7 +195,7 @@
         "expansion": "Return to Hoth",
         "name": "Snowcrash",
         "reward": "Echo Base Trooper",
-        "expansion": "Echo Base Troopers Ally Pack",
+        "expansion": "Echo Base Troopers Ally Pack"
     },
     {
         "category": "Green",
@@ -341,7 +341,7 @@
         "name": "Duel on Devaron",
         "reward": "Wholeness",
         "expansion": "Tyrants of Lothal"
-    
+    },
     {
         "category": "Red",
         "hero": "CT-1701",
