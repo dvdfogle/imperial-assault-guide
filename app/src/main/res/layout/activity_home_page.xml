@@ -6,6 +6,14 @@
     android:layout_height="match_parent"
     tools:context=".HomePage">
 
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        app:layout_constraintTop_toTopOf="parent"
+        app:title="@string/app_name" />
+
     <ImageView
         android:id="@+id/titleCard"
         android:layout_width="0dp"
@@ -15,10 +23,10 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias=".5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/toolbar"
         app:layout_constraintWidth_default="percent"
         app:layout_constraintWidth_percent=".9"
-        app:srcCompat="@drawable/latest" />
+        app:srcCompat="@drawable/logo" />
 
     <LinearLayout
         android:layout_width="0dp"
@@ -36,12 +44,14 @@
             android:id="@+id/new_game"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:onClick="newOrLoad"
             android:text="New Game" />
 
         <Button
             android:id="@+id/load_game"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:onClick="newOrLoad"
             android:text="Load Game" />
     </LinearLayout>
 
