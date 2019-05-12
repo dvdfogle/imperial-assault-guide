@@ -4,9 +4,8 @@
     <string name="database_version" format="integer">1</string>
     <string name="title_activity_expansions">Choose Expansions</string>
     <string name="title_activity_characters">Choose Heroes</string>
+    <string name="title_activity_sidemissions">Choose Side Missions</string>
 
-    <string name="title_activity_sample_nav">SampleNavActivity</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_next">Next</string>
+    <string name="title_save">Save Game</string>
 </resources>

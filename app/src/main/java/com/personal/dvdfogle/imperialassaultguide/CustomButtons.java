@@ -37,6 +37,7 @@ class ImageSelect {
     public int mDbId;
     public String mTitle;
     public int mImageId;
+    public String mExtra;
     private boolean isActive;
 
     public ImageSelect(Context context, int id, String title) {
@@ -50,6 +51,14 @@ class ImageSelect {
         this.isActive = false;
     }
 
+    public ImageSelect(Context context, int id, String title, String detail) {
+        this.mDbId = id;
+        this.mTitle = title;
+        this.mExtra = detail;
+        this.isActive = false;
+        this.mImageId = 0;
+    }
+
     public int backgroundColor(View parent) {
         if (isActive)
             return parent.getResources().getColor(R.color.colorPrimary);
@@ -58,16 +67,5 @@ class ImageSelect {
 
     public void toggleActive() {
         this.isActive = !this.isActive;
-    }
-}
-
-class ToolbarHelper {
-    static void setActionToolbar(AppCompatActivity activity) {
-        Toolbar toolbar = activity.findViewById(R.id.toolbar);
-        activity.setSupportActionBar(toolbar);
-        ActionBar newbar = activity.getSupportActionBar();
-        if (activity.getSupportParentActivityIntent() != null) {
-            newbar.setDisplayHomeAsUpEnabled(true);
-        }
     }
 }

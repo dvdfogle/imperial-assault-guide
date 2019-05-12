@@ -15,15 +15,13 @@ public class HomePage extends AppCompatActivity {
         setContentView(R.layout.activity_home_page);
         deckManager = DeckManager.getInstance();
         deckManager.setContext(this);
-
-        ToolbarHelper.setActionToolbar(this);
     }
 
     public void newOrLoad(View view) {
         Intent nextPage;
         switch (view.getId()) {
             case R.id.new_game:
-                nextPage = new Intent(this, ChooseExpansions.class);
+                nextPage = new Intent(this, ChooseExpansionsActivity.class);
                 break;
             case R.id.load_game:
                 nextPage = new Intent(this, LoadGame.class);

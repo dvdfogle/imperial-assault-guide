@@ -1,7 +1,7 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
@@ -9,16 +9,9 @@
         <item name="android:windowBackground">@color/backgroundPrimary</item>
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
-
-        <item name="android:actionBarStyle">@style/TopNavBar</item>
     </style>
-    <style name="TopNavBar" parent="Widget.AppCompat.ActionBar">
-        <item name="android:elevation">8dp</item>
+    <style name="AppTheme.Toolbar" parent="AppTheme">
         <item name="android:background">@color/colorPrimaryDark</item>
-        <item name="android:titleTextStyle">@style/TopNavBarText</item>
-    </style>
-    <style name="TopNavBarText" parent="@style/TextAppearance.AppCompat.Title">
-        <item name="android:textColor">@color/colorAccent</item>
     </style>
     <style name="ImageCaption" parent="AppTheme">
         <item name="android:gravity">center</item>

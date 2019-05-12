@@ -5,13 +5,11 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
+        android:installLocation="preferExternal"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity
-            android:name=".SampleNavActivity"
-            android:label="@string/title_activity_sample_nav"></activity>
         <activity android:name=".HomePage">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,11 +17,26 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ChooseExpansions"
+        <activity
+            android:name=".ChooseExpansionsActivity"
             android:parentActivityName=".HomePage">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".HomePage"/>
+                android:value=".HomePage" />
+        </activity>
+        <activity
+            android:name=".SetupGameDetailsActivity"
+            android:parentActivityName=".ChooseExpansionsActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ChooseExpansionsActivity" />
+        </activity>
+        <activity
+            android:name=".SetupSideMissionsActivity"
+            android:parentActivityName=".SetupGameDetailsActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SetupGameDetailsActivity" />
         </activity>
         <activity android:name=".LoadGame" />
     </application>

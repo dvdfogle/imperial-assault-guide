@@ -12,7 +12,9 @@
         android:layout_height="wrap_content"
         android:minHeight="?attr/actionBarSize"
         app:layout_constraintTop_toTopOf="parent"
-        app:title="@string/app_name" />
+        app:title="@string/app_name"
+        android:theme="@style/AppTheme.Toolbar"
+        app:titleTextColor="@color/colorAccent" />
 
     <ImageView
         android:id="@+id/titleCard"

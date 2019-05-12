@@ -16,7 +16,9 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.logging.Logger;
 
 class DeckManager {
     private final static DeckManager oneInstance = new DeckManager();
@@ -34,7 +36,7 @@ class DeckManager {
         db.createDataBase();
     }
 
-    public JSONObject getExpansionLists() throws JSONException{
+    public JSONObject getExpansionLists() throws JSONException {
         Cursor cursor = db.queryFor("expansions");
         JSONObject lists = new JSONObject();
         String[] columns = cursor.getColumnNames();
@@ -47,6 +49,46 @@ class DeckManager {
         }
         cursor.close();
         return lists;
+    }
+
+    public JSONArray getCharactersFromExpansions(String expansionArgs) throws JSONException {
+        Cursor cursor = db.queryFor("heroes", expansionArgs);
+        JSONArray heroes = new JSONArray();
+        String[] columns = cursor.getColumnNames();
+        while (cursor.moveToNext()) {
+            JSONObject item = new JSONObject();
+            for (int i=0; i<columns.length; i++) {
+                item.put(columns[i], cursor.getString(i));
+            }
+            heroes.put(item);
+        }
+        cursor.close();
+        return heroes;
+    }
+
+    public ArrayList<String> getSideMissionsOfColor(String color, String args) throws JSONException {
+        // Gray or green: args is an expansion list. Red: args is a character list.
+        Cursor cursor = db.queryFor(color+"_side_missions", args, "4");
+        if (color.equals("gray") || color.equals("red")) {
+            ArrayList<String> ids = new ArrayList<String>();
+            while (cursor.moveToNext()) {
+                ids.add(cursor.getString(0));
+            }
+            cursor.close();
+            return ids;
+        }
+
+        ArrayList<String> greenMissions = new ArrayList<String>();
+        String[] columns = cursor.getColumnNames();
+        while (cursor.moveToNext()) {
+            JSONObject item = new JSONObject();
+            for (int i=0; i<columns.length; i++) {
+                item.put(columns[i], cursor.getString(i));
+            }
+            greenMissions.add(item.toString());
+        }
+        cursor.close();
+        return greenMissions;
     }
 }
 
@@ -67,6 +109,7 @@ class DatabaseHelper extends SQLiteOpenHelper{
         final static String AGENDAS = "agenda_sets";
         final static String CLASSES = "imperial_classes";
         final static String HERO_ITEMS = "hero_items";
+        final static String HEROES = "heroes";
         final static String ITEMS = "items";
         final static String REWARDS = "rewards";
         final static String SIDE_MISSIONS = "side_missions";
@@ -85,7 +128,7 @@ class DatabaseHelper extends SQLiteOpenHelper{
     }
 
     public void createDataBase() {
-        if (!checkDataBase()) {
+ //       if (!checkDataBase()) {
             // This creates a blank database that we can overwrite.
             getReadableDatabase();
             try {
@@ -95,7 +138,7 @@ class DatabaseHelper extends SQLiteOpenHelper{
                 throw new Error("Error copying database");
             }
         }
-    }
+ //   }
 
     private boolean checkDataBase() {
         try {
@@ -106,6 +149,7 @@ class DatabaseHelper extends SQLiteOpenHelper{
         }
 
         return deckDB != null;
+    //    return false;
     }
 
     private void copyDataBase() throws IOException {
@@ -131,17 +175,70 @@ class DatabaseHelper extends SQLiteOpenHelper{
         deckDB = SQLiteDatabase.openDatabase(DB_PATH, null, SQLiteDatabase.OPEN_READONLY);
     }
 
-    public Cursor queryFor(String item) {
+    public Cursor queryFor(String item, String... arguments) {
         Cursor cursor = null;
+        String[] columns;
+        SQLiteQueryBuilder queryBuilder = new SQLiteQueryBuilder();
         switch(item) {
             case "expansions":
-                SQLiteQueryBuilder queryBuilder = new SQLiteQueryBuilder();
-                queryBuilder.setTables(DatabaseHelper.Table.EXPANSIONS + " AS e INNER JOIN " + DatabaseHelper.Table.EXPANSION_TYPES + " AS t ON e.type = t._id");
-                String[] columnns = {"e._id as id", "e.name", "t.name as type"};
+                queryBuilder.setTables(Table.EXPANSIONS + " AS e INNER JOIN " + DatabaseHelper.Table.EXPANSION_TYPES + " AS t ON e.type = t._id");
+                columns = new String[]{"e._id as id", "e.name", "t.name as type"};
                 cursor = queryBuilder.query(
                         deckDB,
-                        columnns,
+                        columns,
                         "e.name <> 'Core Set'",
+                        null,
+                        null,
+                        null,
+                        null,
+                        null);
+                break;
+            case "heroes":
+                queryBuilder.setTables(Table.HEROES);
+                columns = new String[]{"_id as id", "hero_name as name"};
+                cursor = queryBuilder.query(
+                        deckDB,
+                        columns,
+                        "expansion_id in (" + arguments[0] + ")",
+                        null,
+                        null,
+                        null,
+                        null,
+                        null);
+                break;
+            case "gray_side_missions":
+                queryBuilder.setTables(Table.SIDE_MISSIONS);
+                columns = new String[]{"_id as id"};
+                cursor = queryBuilder.query(
+                        deckDB,
+                        columns,
+                        "expansion_id in (" + arguments[0] + ") AND category='Grey'",
+                        null,
+                        null,
+                        null,
+                        "RANDOM()",
+                        arguments[1]);
+                break;
+            case "green_side_missions":
+                queryBuilder.setTables(Table.SIDE_MISSIONS);
+                columns = new String[]{"_id as id", "name", "reward"};
+                cursor = queryBuilder.query(
+                        deckDB,
+                        columns,
+                        "expansion_id in (" + arguments[0] + ") AND category='Green'",
+                        null,
+                        null,
+                        null,
+                        null,
+                        null);
+                break;
+            case "red_side_missions":
+                queryBuilder.setTables(Table.SIDE_MISSIONS);
+                columns = new String[]{"_id as id"};
+                cursor = queryBuilder.query(
+                        deckDB,
+                        columns,
+                        "hero_id in (" + arguments[0] + ")",
                         null,
                         null,
                         null,

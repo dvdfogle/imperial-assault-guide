@@ -1,15 +1,17 @@
 package com.personal.dvdfogle.imperialassaultguide;
 
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
+import android.support.v7.widget.Toolbar;
+import android.view.Menu;
+import android.view.MenuItem;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -18,7 +20,7 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class ChooseExpansions extends AppCompatActivity implements TogglerActivity{
+public class ChooseExpansionsActivity extends AppCompatActivity implements TogglerActivity{
     ChooseExpansionPagerAdapter pagerAdapter;
     ViewPager pager;
 
@@ -29,7 +31,6 @@ public class ChooseExpansions extends AppCompatActivity implements TogglerActivi
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_choose_expansions);
-        ToolbarHelper.setActionToolbar(this);
 
         deckManager = DeckManager.getInstance();
         chosenExpansions = new ArrayList<>();
@@ -47,6 +48,40 @@ public class ChooseExpansions extends AppCompatActivity implements TogglerActivi
 
         TabLayout tabLayout = findViewById(R.id.tabLayout);
         tabLayout.setupWithViewPager(pager);
+
+        Toolbar actionBar = findViewById(R.id.toolbar);
+        setSupportActionBar(actionBar);
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.toolbar_items, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onPrepareOptionsMenu(Menu menu) {
+        menu.findItem(R.id.save_game).setVisible(false);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.navigation_next: {
+                StringBuilder expansionArgs = new StringBuilder();
+                for (int i=0; i < chosenExpansions.size()-1; i++) {
+                    expansionArgs.append(chosenExpansions.get(i));
+                    expansionArgs.append(",");
+                }
+                expansionArgs.append(chosenExpansions.get(chosenExpansions.size()-1));
+
+                Intent nextPage = new Intent(this, SetupGameDetailsActivity.class);
+                nextPage.putExtra("ChosenExpansions", expansionArgs.toString());
+                startActivity(nextPage);
+            }
+        }
+        return true;
     }
 
     public void toggleActive(int id) {
